@@ -86,8 +86,8 @@ A Table caption is like assigning a specific title to a specific table. This way
 When a video or mp3 plays automatically, it interferes with the screen reader. Always provide pause/stop button for video that plays longer than five seconds and audio that plays longer than three seconds.
 ### Add transcripts or captions
 Users with vision or hearing impairments may access transcripts (text version) or captions (text placed in the video) to access audio and video content.
-*	Audio: Provide a transcript; an HTML page is the most accessible.
-*	Video: Use captions; Vimeo and YouTube have captioning. Provide a transcript;an HTML page is the most accessible.
+*	**Audio:** Provide a transcript; an HTML page is the most accessible.
+*	**Video:** Use captions; Vimeo and YouTube have captioning. Provide a transcript;an HTML page is the most accessible.
 Creating a transcript:
 *	If you have a script, start with that. Make edits as needed.
 *	If the recording is of a live event or a webinar, work with your video vendor to create transcripts from the recordings.
