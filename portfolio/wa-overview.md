@@ -19,10 +19,10 @@ Users with disabilities may turn off all the colors, fonts, graphics, and design
 * **Navigate web content with a keyboard, not just a mouse.**
 Some users with physical disabilities can’t use a mouse. Also, many people view web content on smartphones and tablets where a touch screen is used instead of a mouse.
 ## Other Benefits
-* Improved compatibility with different mobile devices and web browsers.
-* Future-proof your content. Accessible content is more likely to be comparable with future technologies.
-* Improve SEO Performance. Search Engines and Search Engine Optimization (SEO) use most of the same techniques to search for keywords.
-* Better User Experience (UX). Accessible design is more user-friendly and benefits all users, not just people with disabilities.
+* **Improved compatibility.** Accessibility supports access across different mobile devices and web browsers.
+* **Future-proof your content.** Accessible content is more likely to be comparable with future technologies.
+* **Improve SEO Performance.** Search Engines and Search Engine Optimization (SEO) use most of the same techniques to search for keywords.
+* **Better User Experience (UX).** Accessible design is more user-friendly and benefits all users, not just people with disabilities.
 ## How to Make Your Webpages More Accessible
 ### Add alt text to images
 Screen readers can’t read the information inside an image; alt text is used instead.
