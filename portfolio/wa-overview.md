@@ -8,7 +8,7 @@ Make web pages accessible to users with disabilities, including:
 ## What Needs to be Accessible?
 Everything! That includes webpages, PDFs, Word documents, images, videos, MP3s, interactive games, etc. If it is on the internet, it should be accessible.
 ## What Makes Web Content Accessible?
-There is a lot that goes into making a web page accessible. Some things need to be completed by developers and others by content authors. Here are some points CQ5 authors should keep in mind.
+There is a lot that goes into making a web page accessible. Some things need to be completed by developers and others by content authors. Here are some points CMS authors should keep in mind.
 When needed, a user should be able to:
 * **Make Content Accessible to a Screen Reader.**
 Blind and visually impaired users will listen to a webpage instead of viewing it. Content must be correctly formatted so the screen reader can interpret and announce content for the listener.
