@@ -88,10 +88,9 @@ When a video or mp3 plays automatically, it interferes with the screen reader. A
 Users with vision or hearing impairments may access transcripts (text version) or captions (text placed in the video) to access audio and video content.
 *	**Audio:** Provide a transcript; an HTML page is the most accessible.
 *	**Video:** Use captions; Vimeo and YouTube have captioning. Provide a transcript;an HTML page is the most accessible.
-Creating a transcript:
+#### Creating a transcript:
 *	If you have a script, start with that. Make edits as needed.
 *	If the recording is of a live event or a webinar, work with your video vendor to create transcripts from the recordings.
 ## More Web Accessibility Resources
 * [WebAim](http://www.webaim.org/)
 * [WAI (Web Accessibility Initiative)](http://www.w3.org/WAI)
-
