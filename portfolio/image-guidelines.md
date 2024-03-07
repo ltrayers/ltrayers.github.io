@@ -36,8 +36,11 @@ Compressed images usually can't be edited again. The image will continue to lose
 * Don't use **pixilated** images. This happens when you try to edit an image that is already compressed.
   ![Non-pixilated example](https://github.com/ltrayers/ltrayers.github.io/blob/7df80eabc7580f85e6c1b5391be035b5ccaf81c4/portfolio/images/original.png)
 * Don't use **blurry** images. This happens when your camera is out of focus when you take a photo.
+  ![Non-pixilated example](https://github.com/ltrayers/ltrayers.github.io/blob/7df80eabc7580f85e6c1b5391be035b5ccaf81c4/portfolio/images/original.png)
 * Don't **enlarge** images beyond 100%. Images that are enlarged beyond 100% will become blurry or pixilated.
+    ![Non-pixilated example](https://github.com/ltrayers/ltrayers.github.io/blob/7df80eabc7580f85e6c1b5391be035b5ccaf81c4/portfolio/images/original.png)
 * Don't use **distorted** images. This happens when you adjust only the image height or width. Most image editors have a "lock ratio" option with their resize settings.
+    ![Non-pixilated example](https://github.com/ltrayers/ltrayers.github.io/blob/7df80eabc7580f85e6c1b5391be035b5ccaf81c4/portfolio/images/original.png)
 * Don't use **grainy** images. This happens when you take a photo in low light.
 * Avoid **crooked** Images. Most image editors can rotate an image angle to align the image content horizontally or vertically. 
 * Remove **red eye.** Most photo editing software has this feature.
